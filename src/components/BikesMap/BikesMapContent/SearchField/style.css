@@ -1,0 +1,7 @@
+div.geosearch form {
+    max-width: 45vh;
+}
+
+div.geosearch form input {
+    width: 100%;
+}

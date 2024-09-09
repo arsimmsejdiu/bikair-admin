@@ -1,0 +1,16 @@
+export interface Spot {
+    id?: number,
+    uuid?: string,
+    name?: string | null,
+    city_name?: string,
+    address?: string | null,
+    latitude?: number | null,
+    longitude?: number | null,
+    radius?: number | null,
+    status?: string | null,
+    max_bikes?: number | null,
+    app_client?: boolean | null,
+    app_tech?: boolean | null,
+    created_at?: string,
+    updated_at?: string,
+}

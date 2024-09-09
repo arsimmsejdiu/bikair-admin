@@ -1,0 +1,13 @@
+.marker-tooltip:before {
+    visibility: hidden;
+}
+
+.marker-tooltip {
+    font-size: 14px;
+    background-color: #47B2FF;
+    color: white;
+    padding: 2px;
+    font-weight: bold;
+    text-align: center;
+    border: 0;
+}

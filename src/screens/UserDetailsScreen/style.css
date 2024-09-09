@@ -1,0 +1,32 @@
+p {
+    text-align: left;
+}
+
+p span {
+    font-weight: bold;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.MuiBox-root::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.MuiBox-root {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+.a {
+    margin-left: 10px;
+    background-color: orange;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600
+}
+
+.a:hover {
+    background-color: darkorange;
+}

@@ -1,0 +1,18 @@
+p {
+    text-align: left;
+}
+
+p span {
+    font-weight: bold;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.MuiBox-root::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.MuiBox-root {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}

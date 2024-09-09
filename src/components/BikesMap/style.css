@@ -1,0 +1,4 @@
+.leaflet-control-attribution {
+    visibility: hidden;
+    position: absolute;
+}

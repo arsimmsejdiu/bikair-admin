@@ -1,0 +1,17 @@
+.app-map-controls {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.app-map-controls::before {
+    border: 0;
+}
+
+.tags-filter-element-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}

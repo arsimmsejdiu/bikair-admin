@@ -1,0 +1,6 @@
+.MuiToggleButtonGroup-groupedHorizontal {
+    border-radius: 50% !important;
+    margin: 0.25rem !important;
+    border: 1px solid lightgray !important;
+    overflow: visible !important;
+}

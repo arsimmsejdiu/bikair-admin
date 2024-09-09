@@ -1,0 +1,164 @@
+{
+  "translation": {
+    "bike": {
+      "status": {
+        "ALL": "Tous",
+        "AVAILABLE": "Disponible",
+        "USED": "Utilisé",
+        "BOOKED": "Reservé",
+        "MAINTENANCE": "Maintenance",
+        "STOLEN": "Volé",
+        "NOT_FOUND": "Introuvable",
+        "PREPARATION": "En préparation",
+        "WAIT_DEPLOY": "En attente de déploiement",
+        "INCIDENT": "Incident",
+        "REMOVED": "Supprimé",
+        "RENTAL": "Location"
+      },
+      "tags": {
+        "ALL": "Tous",
+        "PRIORITY": "Priorité",
+        "WORKSHOP": "Retour atelier",
+        "TO_SPOT": "A remettre sur spot",
+        "CONTROL": "A contrôler",
+        "COLLECT": "A collecter",
+        "CONTROLLED": "Contrôlé",
+        "COLLECTED": "Collecté",
+        "CLIENT_REVIEW": "Revue des clients"
+      }
+    },
+    "trips_list": {
+      "bike_name": "Vélo",
+      "city_name": "Ville",
+      "duration": "Durée",
+      "status": "Statut"
+    },
+    "trip_detail": {
+      "trip": "Trajet",
+      "user_name": "Utilisateur",
+      "stripe_link": "",
+      "bike_name": "Vélo",
+      "city_name": "Ville",
+      "price": "Prix",
+      "duration": "Durée",
+      "status": "Statut",
+      "payment_intent": "L'intention de paiement",
+      "time_start": "Début du temps",
+      "time_end": "Fin du temps",
+      "start_coords": "Coordonnées de départ",
+      "end_coords": "Coordonnées finales"
+    },
+    "user_list": {
+      "user": "Utilisateur",
+      "firstname": "Prénom",
+      "lastname": "Nom",
+      "phone": "Téléphone",
+      "stripe_link": "Lien vers stripe",
+      "version": "Client Version",
+      "os": "Appareil Os Version",
+      "event_logs": "Liste des évènement",
+      "trip_lists": "Liste des trajets",
+      "trip_info": "Plus d'infos pour les trajets",
+      "search_by": "Recherche par date",
+      "search_by_time_start": "Recherche par time start"
+    },
+    "all_details_screen": {
+      "spot_title": "Spot",
+      "spot_name": "Nom",
+      "spot_cities": "Ville",
+      "spot_address": "Adresse",
+      "spot_radius": "Radius (ex: 0.02 === 20 mètre)",
+      "spot_max_bikes": "Vélo maximum",
+      "spot_created_at": "Date création",
+      "spot_modified_at": "Date modification",
+      "spot_status": "Status"
+    },
+    "trip-status": {
+      "PAYMENT_SUCCESS": "Succès du paiement",
+      "FREE_TRIP": "Voyage gratuit",
+      "OPEN": "Ouvert",
+      "CLOSED": "Fermé",
+      "PAYMENT_IN_PROGRESS": "Paiement en cours",
+      "PAYMENT_INV_CREATED": "Création d'une facture de paiement",
+      "PAYMENT_HOLD_CONFIRM": "Confirmation de la retenue du paiement",
+      "FAILED": "Échoué",
+      "FAILED_AT_START": "Échec au démarrage",
+      "FAILED_AT_END": "Échec à la fin",
+      "STARTING": "Démarrage",
+      "CANCEL": "Annuler",
+      "WAIT_VALIDATION": "En attente de validation"
+    },
+    "layer-status": {
+      "BIKES": "Vélo",
+      "END_COORDS": "Fin trajets",
+      "START_COORDS": "Début trajets",
+      "OPEN_COORDS": "Ouverture application"
+    },
+    "roles": {
+      "SUPER_ADMIN": "Super Admin",
+      "TECHNICIAN": "Technicien",
+      "COLLECTOR": "Collecteur",
+      "CONTROLLER": "Contrôleur",
+      "MAINTAINER": "Mainteneur"
+    },
+    "status-values": {
+      "ACTIVE": "Activé",
+      "INACTIVE": "Désactivé"
+    },
+    "subscription_value": {
+      "ACTIVE": "Actif",
+      "INCOMPLETE": "Incomplet",
+      "ON_HOLD": "En attente",
+      "UNPAID": "Non payé",
+      "CANCELED": "Annulé",
+      "EXPIRED": "Expiré"
+    },
+    "marketing": {
+      "values": {
+        "NONE": "Pas de filtre",
+        "RANGE_AGE": "Tranche d'âge",
+        "CITY_SELECT": "Sélectionner une ville",
+        "LAST_TRIP_PERIOD": "Dernière période de trajet",
+        "before": "Avant",
+        "after": "Après"
+      },
+      "errors": {
+        "missing_frequency": "La fréquence doit-être définie"
+      }
+    },
+    "discount-values": {
+      "ONE_SHOT": "Un coup",
+      "PERCENT": "Pourcentage",
+      "PACK": "Paquet",
+      "ABSOLUTE": "Absolu"
+    },
+    "marker_details_bike": {
+      "add": "Ajouter"
+    },
+    "drawer_menu": {
+      "trip": "Mes trajets",
+      "payment": "Paiement",
+      "promotion": "Promotions",
+      "sponsor": "Parrainage",
+      "help": "Aide",
+      "setting": "Paramètres",
+      "logout": "Déconnexion",
+      "cart": "Carte",
+      "notifications": "Notifications",
+      "trips": "Trajets",
+      "users": "Utilisateurs",
+      "bikes": "Vélos",
+      "reviews": "Notes",
+      "discount": "Promotions",
+      "reports": "Rapports",
+      "spots": "Spots",
+      "admins": "Admins",
+      "data": "Data"
+    },
+    "red_zone_screen_details": {
+      "red_zone_title": "Red Zone",
+      "red_zone_name": "Nom",
+      "red_zone_cities": "Ville"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+.marker-detail-container {
+    position: relative;
+    width: 40vh;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.marker-detail-icon {
+    width: 37px;
+    height: 22px;
+}
